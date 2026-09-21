@@ -1,7 +1,12 @@
 # Assignment 1 — Sunrise Supermarket SQL Analysis
 
-**Name:** KAYONGA CALVIN
-**Student ID:** 27753
+
+## Name: KAYONGA CALVIN
+
+
+## Student ID:** 27753
+
+
 **DBMS used:** SQLite 3 (chosen because it requires no server install and the whole project — schema, data, and queries — can be run from a single file with the `sqlite3` command-line tool or Python's built-in `sqlite3` module). The schema below still uses Oracle-style type names (`NUMBER`, `VARCHAR2`) as given in the assignment brief; SQLite accepts these directly through its type-affinity system, so the DDL did not need to be rewritten.
 
 ## Summary
